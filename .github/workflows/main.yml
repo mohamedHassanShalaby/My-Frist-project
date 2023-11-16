@@ -13,6 +13,6 @@ jobs:
       - name: 'Testing Github action'
         run: pwd  
 
-      - name: 'Testing Printinge'
-        run: echo Mohamed
+      - name: 'Printinge folder contents'
+        run: ls
       
